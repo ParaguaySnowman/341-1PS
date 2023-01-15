@@ -1,0 +1,20 @@
+{
+  "name": "341-1ps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParaguaySnowman/341-1PS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParaguaySnowman/341-1PS/issues"
+  },
+  "homepage": "https://github.com/ParaguaySnowman/341-1PS#readme"
+}
